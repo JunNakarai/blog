@@ -85,4 +85,8 @@ LEDも温度変更できないコテで実装できましたが非推奨です�
 - 電動ドライバー：実装ミス修正時にカバーを何度も取り外して調整したので必須かも。
 - アルコール：フラックス清掃用
 
+## 記事について
 
+本記事はGitHubで管理しています。
+
+- [GitHub](https://github.com/hrklab/blog/blob/main/docs/keyball/keyballList.md)
